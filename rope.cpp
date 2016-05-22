@@ -1,8 +1,6 @@
 #include <cstdio>
 #include <string>
 #include <iostream>
-#include <stdlib.h>
-#include <time.h>
 #include <stack>
 using std::string;
 
